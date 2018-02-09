@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="app_title">Interview Demo</string>
+    <string name="name">Ram Prasath M</string>
+    <string name="emailid">Email : ramprasath@e-consystems.com</string>
+    <string name="mobileno">Mobile : +91 9500083852</string>
+    <string name="education">Education</string>
+    <string name="androidexperience">Android Experience</string>
+    <string name="workexperience">Work Experience</string>
+    <string name="summary">Summary</string>
+    <string name="summarydetails">Having around 11 + years overall experience in IT.\nExpertise in C, C++, JAVA, C#, WPF, XAML, Qt , Qml and Android programming.\nPosse’s good communication and interpersonal skills.\nBrainstorming and Review with Peer.</string>
+    <string name="pg">Post Graduation: M.C.A, MIT, Chennai, Anna University – 63.00 %</string>
+    <string name="ug">Under Graduation: B.Sc (C.S), Kamaraj College, Thoothukudi, M S University –  74.23 %</string>
+    <string name="androidexp">Having a 3+ years of hands-on experience in Android Application Development. Expertise in UI
+Design, Design Patterns, Web API, Play Store and Databases. Expertise in developing Native JNI
+Layer, debugging using ADB. Good exposure on working in the various Android based ARM devices
+and understanding in Android AOSP.</string>
+    <string name="workexp">Working as a Software Engineer in e-cons Systems India Pvt. Ltd., Chennai, since Aug’2006
+to Till Date.\nWorked as a Software Engineer in Mousebiz InfoTech India Pvt. Ltd., Chennai - From
+September 05 to July 06.\nWorked as a Software Engineer in El-Inc Software Solutions, Chennai – From June 04 to
+September 05.</string>
+    <string name="capital">Capital :</string>
+    <string name="population">Population :</string>
+    <string name="area">Area :</string>
+    <string name="region">Region :</string>
+    <string name="subregion">Sub Region :</string>
+    <string name="notavail">NA</string>
+
+</resources>
